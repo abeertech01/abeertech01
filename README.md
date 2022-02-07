@@ -10,7 +10,6 @@ Hi, I am **Abeer** from Bangladesh. I am a Full-Stack web developer based on **J
 
 #### Get me better
 
-- 🤍 I love programming and discussing technologies
 - 🌱 I’m currently learning TypeScript, Python, Django, SQL, MySQL
 - 💻 I'm currently doing freelancing
 - 💬 Ask me about JavaScript and its frameworks
