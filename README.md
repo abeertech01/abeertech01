@@ -13,7 +13,7 @@ Hi, I am **Abeer** from Bangladesh. I am a self-taught Full-Stack web developer 
 - 🌱 currently learning TypeScript, Python, Django, SQL, MySQL
 - 💻 currently doing freelancing
 - 💬 Ask me about JavaScript and its frameworks
-- 📫 How to reach me: abeer.technology@gmail.com
+- 📫 Reach me: twitter.com/abeertech01
 
 #### Techs I use
 
