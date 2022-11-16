@@ -10,8 +10,8 @@ Hi, I am **Abeer** from Bangladesh. I am a self-taught Full-Stack web developer 
 
 #### Get me better
 
-- 🌱 currently learning TypeScript, Python, Django, SQL, MySQL
-- 💻 currently doing freelancing
+- 🌱 currently learning TypeScript, Solana smart contract development, SQL, MySQL
+- 💻 currently working as an employee in MoonHoldings.xyz
 - 💬 Ask me about JavaScript and its frameworks
 - 📫 Reach me: twitter.com/abeertech01
 
