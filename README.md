@@ -1,18 +1,16 @@
-<h1 align="center">Hi 👋, I'm Abeer Abdul Ahad</h1>
+<h1 align="center">Hi 👋, I'm Abdul Ahad (Abeer)</h1>
 <h3 align="center">A passionate JavaScript developer from Dhaka, Bangladesh.</h3>
 <img align="right" width="50%" style="margin-left:10px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeertech01&label=Profile%20views&color=0e75b6&style=flat" alt="abeertech01" /> </p>
 
-- I am currently working on [FriendsBook Server (Facebook Clone)](https://github.com/abeertech01/friendsbook-server)
+- I am currently working on FriendsBook (Facebook Clone) - [FrontEnd](https://github.com/abeertech01/friendsbook-client), [BackEnd](https://github.com/abeertech01/friendsbook-server)
 
-- 🌱 I’m currently learning **Python and Rust**
-
-- 👨‍💻 All of my projects are available at [https://abeer.codes](https://abeer.codes)
+- 🌱 I’m currently learning **Python🐍 and Rust🦀**
 
 - 📝 I occasionally write articles on [https://abeer.hashnode.dev](https://abeer.hashnode.dev)
 
-- 💬 Ask me about **javascript, typescript, react and nextjs**
+- 💬 Ask me about **JavaScript, TypeScript and MERN stack (Including NextJS)**
 
 - 📫 How to reach me **abeer.technology@gmail.com**
 
