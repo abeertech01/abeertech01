@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abeer Abdul Ahad</h1>
 <h3 align="center">A passionate JavaScript developer from Dhaka, Bangladesh.</h3>
-<img align="right" width="50%" style="margin-left: 30px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" width="50%" style="margin-left:10px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeertech01&label=Profile%20views&color=0e75b6&style=flat" alt="abeertech01" /> </p>
 
