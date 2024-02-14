@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeertech01&label=Profile%20views&color=0e75b6&style=flat" alt="abeertech01" /> </p>
 
-- I am currently working on FriendsBook (Facebook Clone) - [FrontEnd](https://github.com/abeertech01/friendsbook-client), [BackEnd](https://github.com/abeertech01/friendsbook-server)
+- I am currently developing my champion project, FriendsBook (Facebook Clone) - [FrontEnd](https://github.com/abeertech01/friendsbook-client), [BackEnd](https://github.com/abeertech01/friendsbook-server)
 
 - 🌱 I’m currently learning **Python🐍 and Rust🦀**
 
