@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeertech01&label=Profile%20views&color=0e75b6&style=flat" alt="abeertech01" /> </p>
 
-- I am currently developing my champion project, FriendsBook (Facebook Clone) - [FrontEnd](https://github.com/abeertech01/friendsbook-client), [BackEnd](https://github.com/abeertech01/friendsbook-server)
+- I am currently developing my champion project, Redbook - Social Media App - [FrontEnd](https://github.com/abeertech01/redbook-client), [BackEnd](https://github.com/abeertech01/redbook-server)
 
-- 🌱 I’m currently learning **Python🐍 and Rust🦀**
+- 🌱 I’m currently learning **Python🐍 and React Native⚛️**
 
 - 📝 I occasionally write articles on [https://abeer.hashnode.dev](https://abeer.hashnode.dev)
 
