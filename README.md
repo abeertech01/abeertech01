@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abdul Ahad (Abeer)</h1>
-<h3 align="center">A passionate JavaScript developer from Dhaka, Bangladesh.</h3>
+<h3 align="center">A JavaScript Enthusiast, Expert in React-NextJS-MERN-PERN</h3>
 <img align="right" width="50%" style="margin-left:10px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeertech01&label=Profile%20views&color=0e75b6&style=flat" alt="abeertech01" /> </p>
 
-- I am currently developing my champion project, Redbook - Social Media App - [FrontEnd](https://github.com/abeertech01/redbook-client), [BackEnd](https://github.com/abeertech01/redbook-server)
+- Currently developing my champion project, [Redbook - Social Media App](https://github.com/abeertech01/redbook)
 
-- 🌱 I’m currently learning **Python🐍 and React Native⚛️**
+- 🌱 Currently learning **DSA, Generative AI and React Native ⚛️**
 
 - 📝 I occasionally write articles on [https://abeer.hashnode.dev](https://abeer.hashnode.dev)
 
-- 💬 Ask me about **JavaScript, TypeScript and MERN stack (Including NextJS)**
+- 💬 Talk to me about **JavaScript, TypeScript, MERN stack and NextJS**
 
-- 📫 How to reach me **abeer.technology@gmail.com**
+- 📫 How to reach out to me? Mail to **abeer.technology@gmail.com**
 
 - 📄 DM me on Linkedin [https://linkedin.com/in/abeertech01](https://linkedin.com/in/abeertech01)
 
